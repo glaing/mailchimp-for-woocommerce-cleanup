@@ -11,4 +11,6 @@ To use this, download as a zip and import as a plugin in WordPress.
 
 Once activated, it can be accessed through Tools -> MailChimp Cleanup in the Wordpress Adminstration Area.
 
+Note: It may take a while for the plugin pages to load on sites that have a lot of orders.
+
 I built this for my site, but I have added it here as it may be useful for other WooCommerce Store Owners. 
