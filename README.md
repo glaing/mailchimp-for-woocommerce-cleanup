@@ -1,5 +1,5 @@
 # mailchimp-for-woocommerce-cleanup
-This tool has been created to resolve an issue were all customers were imported as MailChimp Subscribers from my WooCommerce Store. This led to fairly low read and interaction rates on my email campaigns. More concerning though, was that I had a fairly high unsubscribe rate, with the reason 'I didn't sign up for this list', which I fear will have damaged my store's reputation with some of my customers.
+This tool has been created to resolve an issue where all my customers were imported as MailChimp Subscribers from my WooCommerce Store. This led to fairly low read and interaction rates on my email campaigns. More concerning though, was that I had a fairly high unsubscribe rate, with the reason 'I didn't sign up for this list', which I fear will have damaged my store's reputation with some of my customers.
 
 It searches for orders where the customer has not opted in to be a MailChimp subscriber. These customers were previously being imported by the MailChimp for WooCommerce Plugin from MailChimp.
 
