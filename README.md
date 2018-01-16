@@ -3,6 +3,8 @@ This tool has been created to resolve an issue were all customers were imported 
 
 It searches for orders where the customer has not opted in to be a MailChimp subscriber. These customers were previously being imported by the MailChimp for WooCommerce Plugin from MailChimp.
 
+It then produces a text list of the subscribers for you to then load into MailChimp's unsubscribe form.
+
 Please check through the data carefully before importing the unsubscribe list into MailChimp to prevent users being accidently unsubscribed.
 
 Note: This tool cannot check to see if users have signed up to the MailChimp using any other method than the Subscribe option on your checkout page. If a customer has joined your mailing list through another method, but then not opted in during checkout, they will be removed.
